@@ -7,6 +7,8 @@
 **MoviePeek** is a modern movie discovery application built with React and Vite.
 Users can easily discover popular, top-rated, and upcoming movies.
 
+🔗 **Live Demo:** [https://moviepeek-react-app.vercel.app](https://moviepeek-react-app.vercel.app)
+
 ---
 
 ## 🚀 Features
